@@ -1,0 +1,3 @@
+In 21st era cloud computing become very important aspect of handling bussiness online.
+  Cloud Computing services can be distinguish in SaaS, PaaS & IaaS.
+  pay-per-use , remote access, resource pooling, etc are some important chara of CC. 
